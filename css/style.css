@@ -6,6 +6,12 @@ body{
   background-color: rgb(236, 228, 228);
 }
 
+header{
+  height: 50px;
+  background-color: rgb(236, 228, 228);
+  margin-left: 50px;
+}
+
 main{
   margin-left: 0px;
 
@@ -19,13 +25,17 @@ hr{
 section span{
   font-size: 15px;
 }
-.conteiner{
-  width: 100%;
-  margin: 0;
-  height: 100px;
-  background-color: aliceblue;
-  
+
+p{
+  margin-top: 15px;
 }
+
+.container{
+  color: #4d4c4e;
+  margin-left: 65px;
+  margin-top: 50px;
+}
+
 
 .tex-logo{
   display: inline-block;
@@ -42,7 +52,11 @@ h1{
   margin-left: 170px;
   background-color: #ffffffbd;
   height: 700px;
+  
   margin-top: 50px;
+  font-size: 30px;
+  
+}
 
 }
 
@@ -57,6 +71,7 @@ h1{
   background-color: cyan;
   padding: 10px;
   border-radius: 15%;
+  margin-left: 70px;
 }
 
 .right{
@@ -65,11 +80,6 @@ h1{
   color:  #c39f9f;
 }
 
-.task{
-  margin-top: 50px;
-  font-size: 30px;
-  margin-left: 55px;
-}
 
 .circle{
   border-radius: 50%;
@@ -78,14 +88,42 @@ h1{
   color: green;
 }
 
-#border{
-  background-color: rgb(113, 166, 233);
+.border{
+  background-color: cyan;
   padding: 5px;
   border-radius: 10px 10px;
   color: white;
+  width: 97px;
 
 }
-.text{
-  color: blueviolet;
-  margin-left: 20px;
+
+
+
+ .border .viola{
+  background-color: rgb(122, 124, 255);
+  
+} 
+  
+.blu{
+  background-color: cyan;
+  padding: 5px;
+  border-radius: 10px 10px;
+
+}
+
+
+.circle-red{
+  color: aquamarine;
+  border-radius: 50%;
+  border: 1px solid red;
+  color: red;
+  padding: 5px;
+}
+
+.green{
+
+  background-color: rgb(102, 211, 107);
+  padding: 5px;
+  border-radius: 10px 10px;
+
 }
