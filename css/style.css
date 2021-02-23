@@ -79,12 +79,13 @@ h1{
 }
 
 #border{
-  background-color: cyan;
+  background-color: rgb(113, 166, 233);
   padding: 5px;
   border-radius: 10px 10px;
+  color: white;
 
 }
-∞
-#text{
-  margin-left: 15px;
+.text{
+  color: blueviolet;
+  margin-left: 20px;
 }
