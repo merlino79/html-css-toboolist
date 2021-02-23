@@ -19,7 +19,7 @@ main{
 
 hr{
   border-color: brown;
-  margin-top: 7px;
+  margin-top: 20px;
 }
 
 section span{
@@ -36,10 +36,18 @@ p{
   margin-top: 50px;
 }
 
+.today{
+  margin-top: 35px;
+}
+
 
 .tex-logo{
   display: inline-block;
   font-size: 50px;
+}
+
+.text{
+  font-size: 25px;
 }
 
 
@@ -58,20 +66,20 @@ h1{
   
 }
 
-}
+
 
 .button{
-  margin-left: 55px;
+  
   padding: 10px;
-  
-  
+  margin-left: 50px;
 }
 
 .left{
-  background-color: cyan;
+  background-color:#00abff;
+  padding: 10px;
   padding: 10px;
   border-radius: 15%;
-  margin-left: 70px;
+  
 }
 
 .right{
@@ -89,7 +97,7 @@ h1{
 }
 
 .border{
-  background-color: cyan;
+  background-color:#00abff;
   padding: 5px;
   border-radius: 10px 10px;
   color: white;
