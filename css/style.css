@@ -65,7 +65,7 @@ h1{
   width: 80%;
   margin-left: 170px;
   background-color: #ffffffbd;
-  height: 700px;
+  height: 750px;
   
   margin-top: 50px;
   font-size: 30px;
@@ -143,5 +143,23 @@ h1{
   border-radius: 10px 10px;
   width: 97px;
   color: white;
+
+}
+
+.purple{
+  background-color: purple;
+  padding: 5px;
+  border-radius: 10px 10px;
+  width: 97px;
+  color: white
+}
+
+.lime{
+  background-color: lime;
+  padding: 5px;
+  border-radius: 10px 10px;
+  width: 97px;
+  color: white
+}
 
 }
