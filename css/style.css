@@ -28,6 +28,7 @@ section span{
 
 p{
   margin-top: 15px;
+  
 }
 
 .container{
@@ -38,6 +39,11 @@ p{
 
 .today{
   margin-top: 35px;
+}
+
+.Upcoming{
+  margin-top: 35px;
+
 }
 
 
@@ -105,33 +111,37 @@ h1{
 
 }
 
-
-
- .border .viola{
-  background-color: rgb(122, 124, 255);
-  
-} 
-  
-.blu{
-  background-color: cyan;
+.viola{
+  background-color: darkmagenta;
   padding: 5px;
   border-radius: 10px 10px;
-
+  width: 97px;
+  color: white;
 }
 
-
-.circle-red{
-  color: aquamarine;
-  border-radius: 50%;
-  border: 1px solid red;
-  color: red;
-  padding: 5px;
-}
 
 .green{
 
   background-color: rgb(102, 211, 107);
   padding: 5px;
   border-radius: 10px 10px;
+  width: 97px;
+  color: white;
+} 
+
+.egea{
+  color: red;
+  border-color: red;
+  border-radius: 50%;
+  border: 1px solid red;
+  padding: 5px;
+}
+
+.orange{
+  background-color: sandybrown;
+  padding: 5px;
+  border-radius: 10px 10px;
+  width: 97px;
+  color: white;
 
 }
