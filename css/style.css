@@ -6,11 +6,19 @@ body{
   background-color: rgb(236, 228, 228);
 }
 
-hr{
-  border-color: brown;
-  margin-top: 20px;
+main{
+  margin-left: 0px;
+
 }
 
+hr{
+  border-color: brown;
+  margin-top: 7px;
+}
+
+section span{
+  font-size: 15px;
+}
 .conteiner{
   width: 100%;
   margin: 0;
@@ -47,4 +55,18 @@ h1{
 
 .left{
   background-color: cyan;
+  padding: 10px;
+  border-radius: 15%;
+}
+
+.right{
+  padding: 10px;
+  border-radius: 15%;
+  color:  #c39f9f;
+}
+
+.task{
+  margin-top: 50px;
+  font-size: 30px;
+  margin-left: 55px;
 }
